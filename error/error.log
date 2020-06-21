@@ -1,0 +1,7 @@
+Jun 21, 2020 03:17:59 pm : (run Query database) : SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'sakarpaudel06@gmail.com' for key 'email'
+Jun 21, 2020 03:18:22 pm : (run Query database) : SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'sakarpaudel06@gmail.com' for key 'email'
+Jun 21, 2020 03:19:23 pm : (run Query database) : SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'sakarpaudel06@gmail.com' for key 'email'
+Jun 21, 2020 03:19:40 pm : (run Query database) : SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'sakarpaudel06@gmail.com' for key 'email'
+Jun 21, 2020 03:31:34 pm : (run Query database) : SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'sakarpaudel06@gmail.com' for key 'email'
+Jun 21, 2020 03:58:24 pm : (run Query database) : SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'sakarpaudel06@gmail.com' for key 'email'
+Jun 21, 2020 04:08:41 pm : (run Query database) : SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'sakarpaudel06@gmail.com' for key 'email'

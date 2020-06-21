@@ -1,7 +1,8 @@
 <?php 
 	include $_SERVER['DOCUMENT_ROOT'].'config/init.php';
-	include 'inc/header.php';
+	include 'inc/header.php'; 
  ?>
+
 
 <!DOCTYPE html>
 <html lang="en">
@@ -10,7 +11,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
         
         <!-- css -->
-    <link rel="stylesheet" type="text/css" href=".\assets\css\style.css">
+    <link rel="stylesheet" type="text/css" href="assets/css/style.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
         <!-- script -->
    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
@@ -23,17 +24,18 @@
 </head>
 <body>
 
-
+</body>
+</html>
 
 
 <!-- container -->
 
 <div class="container">
   <div class="row">
-    <div class="block col-md-10  bg-primary">
+    <div class="block col-md-10  ">
       <p>useless </p>
       <p> useless </p>
-      <p> useless</p>
+      
      
       
       <p>44 years. 114 players. 83 World Cup games including four finals. A tie. A first-ever Super Over in an ODI. A tie in the Super Over. It took all these for the creators of the game to finally lift the coveted World Cup trophy. The last time England were competitive in World Cups, ODIs did not have an identity of their own and existed as a condensed form of Test cricket. They failed to make it to the semifinals across six consecutive editions, a period which saw Sri Lanka, who never made it to a World Cup semifinal till then, lifting a World title and Kenya playing a semifinal.
@@ -46,10 +48,10 @@
     
     
     <div class=" block row-md-2 col-md-1">
-      <p>useless </p>
+     
       <p> useless </p>
       <p> useless</p>
-      <div class="email">    
+      <div class="fixedcontainer">    
        <p>As the players used Sunday to take a day off from the rigmarole of the World Cup and prepare for Thursday's semi-final against Australia, the Ashes filled the airwaves with talk of Jason Roy's qualities as a Test opener.
         sing fifty four times and converting one to a bumper 153.
       </p>
@@ -58,10 +60,15 @@
     
   </div>
   </div>
-<?php include 'inc/footer.php'; ?>
+<?php 
+	include 'inc/footer.php'; 
+ ?>
 <!-- jQuery Plugins -->
     <script src="assets/js/jquery.min.js"></script>
     <script src="assets/js/bootstrap.min.js"></script>
     <script src="assets/js/main.js"></script>
+
+ 
+ 
 	</body>
 </html>

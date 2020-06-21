@@ -56,7 +56,7 @@
             <div class="footer-widget">
               <h3 class="footer-title">Join our Newsletter</h3>
               <div class="footer-newsletter">
-                <form>
+                <form action="process/subscribe" method="post">
                   <input class="input" type="email" name="newsletter" placeholder="Enter your email">
                   <button class="newsletter-btn"><i class="fa fa-arrow-right" aria-hidden="true"></i></button>
                 </form>
